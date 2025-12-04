@@ -1,7 +1,7 @@
 ﻿
 # ===========================================
 # System Diagnostic & Health Check Tool
-# Author: <Your Name>
+# Author: Jonathan Bell
 # Version: 1.0
 # ===========================================
 
